@@ -48,7 +48,7 @@ html{
 {
   background:url("image/image1.png");
   width: initial;
-  
+  background-repeat: no-repeat;
   height: 700px;
   margin: 0;
   padding: 0;
