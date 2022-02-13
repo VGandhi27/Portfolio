@@ -39,9 +39,6 @@ html{
   width:15%;
   
 }
-.row{
-  width:100%;
-}
 .row2
 {
   background:url("image/image1.png");
@@ -459,9 +456,7 @@ body {margin:0;height:2000px;}
   top: 50%; 
   border-radius: 5px;
 }
-.row{
-  width:100%;
-}
+
 .icon-bar a {
   display: block;
   padding: 10px;
