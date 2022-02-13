@@ -479,7 +479,7 @@ body {margin:0;height:2000px;}
 .row2
 {
   background-repeat: no-repeat;
-  background-size: initial,1100px;
+  background-size: 100%,1100px;
 }
 .pic{
   background-size: 110px 140px;
