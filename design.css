@@ -446,10 +446,10 @@ body {margin:0;height:2000px;}
 {
 
 .left{
-  width:10%;
+  width:0%;
 }
 .right{
-  width:10%;
+  width:0%;
 }
 .icon-bar {
   position: fixed;
@@ -463,7 +463,7 @@ body {margin:0;height:2000px;}
   font-size: 15px; 
 }
 .between{
-  width:80%;
+  width:initial;
 }
 .column_l
 {float: left;
