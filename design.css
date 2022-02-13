@@ -463,7 +463,7 @@ body {margin:0;height:2000px;}
   font-size: 15px; 
 }
 .between{
-  width:initial;
+  width:100%;
 }
 .column_l
 {float: left;
