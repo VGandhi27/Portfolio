@@ -566,6 +566,10 @@ main > input
 footer{
   font-size:medium;
 }
+#formsize
+{
+  size:35px;
+}
 }
 /* For Tablets*/
 @media(max-width: 900px)
