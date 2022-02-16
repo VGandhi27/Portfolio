@@ -510,12 +510,20 @@ footer{
 
 article > h1,h2
 {
-  font-size: 20px;
+  font-size: 30px;
 }
+.animate__animated.animate__flash{
+  font-size:50px;
+}
+
 /* About Section*/
 .animate__animated.animate__jackInTheBox 
 {
     font-size: 30px;
+}
+#homesize
+{
+  font-size: xx-large;
 }
 .type{
   font-size: 30px;
